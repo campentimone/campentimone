@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cam! (they/them)
+- 👋 Hi, I’m Cam!
 - 👀 I’m interested in technical writing and documentation.
 - 🌱 I’m currently learning Git, Python, and Markdown.
 - 💞️ I’m looking to collaborate on projects that need documentation and/or help with writing in general!
