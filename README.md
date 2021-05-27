@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cam! (they/them)
+- 👀 I’m interested in technical writing and documentation.
+- 🌱 I’m currently learning Git, Python, and Markdown.
+- 💞️ I’m looking to collaborate on projects that need documentation and/or help with writing in general!
+- 📫 How to reach me: <a href = "https://twitter.com/campentimone">Twitter</a> and <a href = "https://www.instagram.com/cam.pentimone/">IG</a>.
